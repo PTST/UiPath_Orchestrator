@@ -1,2 +1,2 @@
 # UiPath_Orchestrator
-Python Implementation Of The UiParh Orchestrator
+Python implementation of the UiPath Orchestrator API
