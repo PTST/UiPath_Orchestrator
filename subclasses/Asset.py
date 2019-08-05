@@ -1,8 +1,6 @@
 from subclasses.initializer import comparable, represent
 import re
 
-
-
 @comparable
 class RobotValue(object):
     def __init__(self,
